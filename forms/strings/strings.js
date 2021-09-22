@@ -15,7 +15,7 @@ if (found == true) {
 else {
   console.log(`Henry was not in completeString.`)
 }
-    asfas
+  
     
 
 
